@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\r\n\ Name\:Saugat\ Basnet\r\n\ Id\ \=\ np014s220042\r\n\ \r\n\ The\ class\ Vehicle\ is\ call\ following\ attributes\ and\ to\ set\ accersor\ and\ \r\n\ mutator\ method\r\n\ within\ the\ class\r\n
+comment1.params=vehicleID\ vehiclename\ vehicleWeight\ vehicleColor
+comment1.target=Vehicle(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\ The\ class\ vehicles\ attribute\ are\ assigned\ with\ value\ using\ \r\nConstructor\ parameter
+comment2.params=
+comment2.target=int\ getvehicleID()
+comment3.params=
+comment3.target=java.lang.String\ getvehicleweight()
+comment4.params=
+comment4.target=java.lang.String\ getvehiclecolor()
+comment5.params=
+comment5.target=java.lang.String\ getvehicle_Speed()
+comment6.params=
+comment6.target=java.lang.String\ getvehicleName()
+comment7.params=newSpeed
+comment7.target=void\ setVehicle_Speed(java.lang.String)
+comment8.params=newvehicle_Color
+comment8.target=void\ setVehicleColor(java.lang.String)
+comment9.params=
+comment9.target=void\ display()
+numComments=10
